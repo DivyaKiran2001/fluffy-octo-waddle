@@ -3,8 +3,7 @@
 # **bold text**
 # *italic*
 # ***bold italic***
-# **DIVYA**
-# 😊 :blush:	
+# **DIVYA**:blush:	
 # *SUHANA*:yum:
 # ***LIKHITHA***:relaxed:
 # **PAVITHRA**:mask::joy:
